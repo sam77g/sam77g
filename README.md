@@ -14,5 +14,3 @@
  <a href="www.linkedin.com/in/samuel-assis-9799992bb" targey="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" <a>
 </div>
 
-
-![Snake animation](https://github.com/sam77g/sam77g/blob/output/github-contribution-grid-snake.svg)
