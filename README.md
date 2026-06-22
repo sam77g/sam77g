@@ -1,16 +1,14 @@
-## Hi there 👋
+# SAMUEL 
+## Hello everyone
 
-<!--
-**sam77g/sam77g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Atualmente estou estudando Ánalise e Desevolvimento de Sistemas na faculdade UNIFAN
+- Estou aprendendo o necessário na área de frontend e design ( UI & UX design)
 
-Here are some ideas to get you started:
+## Ferramentas e Tecnologias que uso/estou aprendendo: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="40" height="40"/>
+          
+## Contatos :
+<div>
+ <a href="www.linkedin.com/in/samuel-assis-9799992bb" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" <a>
+</div>
