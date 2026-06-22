@@ -10,7 +10,7 @@
 
 ## leetcode :
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/sam77gleetcode?theme=dark&font=Segoe%20UI)   
+![LeetCode Stats](https://leetcard.jacoblin.cool/sam77g?theme=dark&font=Segoe%20UI)   
 
 ## Contatos :
 <div>
