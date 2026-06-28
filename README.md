@@ -1,4 +1,4 @@
-```md
+
 # Olá! 👋 Eu sou o Samuel
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**.
@@ -51,5 +51,5 @@ Meu objetivo é evoluir continuamente como desenvolvedor, criando projetos prát
 ## 📫 Contato
 
 - LinkedIn: www.linkedin.com/in/samuel-assis-9799992bb
-```
+
 
