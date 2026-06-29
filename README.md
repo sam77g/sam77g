@@ -8,7 +8,7 @@ Atualmente estou focado em construir uma base sólida em desenvolvimento web, es
 
 Meu objetivo é evoluir continuamente como desenvolvedor, criando projetos práticos e aprendendo boas práticas de programação.
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY25ybjEyYzI5bzF6cmI1ZnBzeW55d2gxOWR5Yzd3dXhzZjJ2NG5rbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/udK21RQeWtaGQ/giphy.gif" width="100">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY25ybjEyYzI5bzF6cmI1ZnBzeW55d2gxOWR5Yzd3dXhzZjJ2NG5rbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/udK21RQeWtaGQ/giphy.gif" width="300">
 
 ---
 
