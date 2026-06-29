@@ -1,4 +1,4 @@
-<img src="SAMUEL(1).png">
+<img src="SAMUEL (1).png">
 # Olá! 👋 Eu sou o Samuel
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**.
