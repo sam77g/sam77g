@@ -1,4 +1,4 @@
-<img src="SAMUEL (1).png" border-radius="5px">
+<img src="SAMUEL (1).png" border-radius="15px">
 # Olá! 👋 Eu sou o Samuel
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**.
