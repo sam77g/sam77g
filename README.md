@@ -1,6 +1,7 @@
 <img src="SAMUEL (1).png" border-radius="15px">
 
 # Olá! 👋 Eu sou o Samuel
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY25ybjEyYzI5bzF6cmI1ZnBzeW55d2gxOWR5Yzd3dXhzZjJ2NG5rbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/udK21RQeWtaGQ/giphy.gif" width="100">
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**.
 
@@ -53,5 +54,4 @@ Meu objetivo é evoluir continuamente como desenvolvedor, criando projetos prát
 
 - LinkedIn: www.linkedin.com/in/samuel-assis-9799992bb
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY25ybjEyYzI5bzF6cmI1ZnBzeW55d2gxOWR5Yzd3dXhzZjJ2NG5rbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/udK21RQeWtaGQ/giphy.gif" width="500">
 
