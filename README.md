@@ -37,7 +37,6 @@ Meu objetivo é evoluir continuamente como desenvolvedor, criando projetos prát
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sam77g&show_icons=true&theme=github_dark&hide_border=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam77g&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
