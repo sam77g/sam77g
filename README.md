@@ -48,10 +48,5 @@ Meu objetivo é evoluir continuamente como desenvolvedor, criando projetos prát
   <img src="https://leetcard.jacoblin.cool/sam77g?theme=dark&font=Segoe%20UI"/>
 </p>
 
----
-
-## 📫 Contato
-
-- LinkedIn: www.linkedin.com/in/samuel-assis-9799992bb
 
 
