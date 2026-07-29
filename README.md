@@ -1,4 +1,4 @@
-<img src="SAMUEL (1).png" border-radius="15px">
+<img src="SAMUEL(v2).png" border-radius="15px">
 
 # Olá! 👋 Eu sou o Samuel
 
