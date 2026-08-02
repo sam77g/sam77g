@@ -1,4 +1,4 @@
-img src="SAMUEL(v3).png" alt="Banner"/>
+<img src="SAMUEL(v3).png" alt="Banner"/>
 
 # Samuel
 
