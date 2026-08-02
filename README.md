@@ -86,9 +86,9 @@ Aplicação voltada para organização dos estudos e produtividade, desenvolvida
 
 ## GitHub
 
-A maior parte dos meus projetos permanece privada enquanto estão em desenvolvimento.
-
-Após atingirem um nível adequado de qualidade, eles são disponibilizados publicamente como parte do meu portfólio.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sam77g&theme=github-dark&hide_border=true"/>
+</p>
 
 ---
 
@@ -96,11 +96,11 @@ Após atingirem um nível adequado de qualidade, eles são disponibilizados publ
 
 <p align="left">
 
-<a href="https://linkedin.com/in/SEU-LINKEDIN">
+<a href="https://linkedin.com/in/samuel-santana-assis">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:SEUEMAIL">
+<a href="mailto:samuelspassis@gmail.com">
 <img src="https://img.shields.io/badge/E-mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
