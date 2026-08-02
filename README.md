@@ -90,6 +90,14 @@ Aplicação voltada para organização dos estudos e produtividade, desenvolvida
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sam77g&theme=github-dark&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img height="170em"
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=sam77g&show_icons=true&theme=dark&hide_border=true"/>
+
+  <img height="170em"
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sam77g&layout=compact&theme=dark&hide_border=true"/>
+</p>
+
 ---
 
 ## Contato
