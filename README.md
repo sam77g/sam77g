@@ -1,4 +1,5 @@
 <img src="SAMUEL(v3).png" border-radius="15px">
+<!-- banner -->
 
 # Olá! 👋 Eu sou o Samuel
 
