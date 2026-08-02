@@ -65,7 +65,7 @@ Plataforma voltada para organização dos estudos e produtividade.
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/main/github-metrics.svg"/>
+<img src="https://raw.githubusercontent.com/sam77g/sam77g/main/github-metrics.svg"/>
 
 </p>
 
