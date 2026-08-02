@@ -1,22 +1,22 @@
-<img src="SAMUEL(v3).png" alt="Banner"/>
+<img src="SAMUEL(v3).png" alt="Banner do perfil"/>
 
 # Samuel
 
-Estudante de **Análise e Desenvolvimento de Sistemas**, atualmente no **2º semestre**, com foco em desenvolvimento web e construção de software.
+Estudante de **Análise e Desenvolvimento de Sistemas (2º semestre)** com foco em desenvolvimento web e construção de software.
 
-Tenho interesse principalmente em **Front-end**, **UI/UX Design** e Engenharia de Software. Utilizo projetos pessoais como forma de aprofundar conhecimentos técnicos e desenvolver boas práticas de programação.
+Atualmente estou desenvolvendo uma base sólida em **HTML, CSS, JavaScript** e **Node.js**, enquanto aprofundo conhecimentos em estruturas de dados, algoritmos, APIs REST e boas práticas de desenvolvimento.
 
-Atualmente estou construindo meu portfólio por meio de aplicações completas, evoluindo continuamente meus conhecimentos em JavaScript, desenvolvimento web e tecnologias modernas do ecossistema JavaScript.
+Meu principal objetivo é construir aplicações completas, evoluir continuamente como desenvolvedor e conquistar minha primeira oportunidade na área de Tecnologia.
 
 ---
 
 ## Sobre
 
-- Estudante de ADS
+- Estudante de Análise e Desenvolvimento de Sistemas
 - Desenvolvedor Front-end em formação
-- Usuário Linux
-- Apaixonado por tecnologia e aprendizado contínuo
-- Desenvolvendo projetos próprios para fortalecer fundamentos de programação
+- Entusiasta de Linux e Software Livre
+- Construindo projetos próprios para consolidar conhecimentos
+- Aprendendo continuamente através da prática
 
 ---
 
@@ -24,21 +24,23 @@ Atualmente estou construindo meu portfólio por meio de aplicações completas, 
 
 <p align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" title="HTML5"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" title="CSS3"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" title="JavaScript"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" title="Node.js"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" title="Git"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" title="GitHub"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" title="Linux"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42" title="Figma"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" title="Visual Studio Code"/>
 
 </p>
 
@@ -46,28 +48,26 @@ Atualmente estou construindo meu portfólio por meio de aplicações completas, 
 
 ## Projeto em destaque
 
-### ZUME
+### ZUME *(em desenvolvimento)*
 
-Plataforma voltada para organização dos estudos e produtividade.
+Aplicação voltada para organização dos estudos e produtividade, desenvolvida como projeto de portfólio.
 
 **Tecnologias**
 
 - HTML
 - CSS
 - JavaScript
-- Node.js *(em desenvolvimento)*
+- Node.js
 
-> Em breve disponível publicamente.
+**Recursos**
 
----
+- Pomodoro
+- Flashcards
+- Organização de estudos
+- Sistema de autenticação *(em desenvolvimento)*
+- Backend em Node.js *(em desenvolvimento)*
 
-## GitHub Metrics
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/sam77g/sam77g/main/github-metrics.svg"/>
-
-</p>
+> O projeto será disponibilizado publicamente após a conclusão da primeira versão estável.
 
 ---
 
@@ -76,32 +76,32 @@ Plataforma voltada para organização dos estudos e produtividade.
 - JavaScript (ES6+)
 - Node.js
 - APIs REST
+- Git e GitHub
 - Estruturas de Dados
 - Algoritmos
-- Git
-- GitHub
 - UI/UX Design
+- Arquitetura de aplicações web
 
 ---
 
-## Objetivos para 2026
+## GitHub
 
-- Tornar o projeto ZUME público
-- Construir um portfólio sólido
-- Aprimorar conhecimentos em Node.js
-- Aprender React
-- Conquistar minha primeira oportunidade na área de TI
+A maior parte dos meus projetos permanece privada enquanto estão em desenvolvimento.
+
+Após atingirem um nível adequado de qualidade, eles são disponibilizados publicamente como parte do meu portfólio.
 
 ---
 
 ## Contato
 
 <p align="left">
-<a href="www.linkedin.com/in/samuel-santana-assis">
+
+<a href="https://linkedin.com/in/SEU-LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:samuelspassis@gmail.com">
-<img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:SEUEMAIL">
+<img src="https://img.shields.io/badge/E-mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 </p>
