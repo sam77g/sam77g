@@ -6,7 +6,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas (2º semestre)** com foco 
 
 Atualmente estou desenvolvendo uma base sólida em **HTML, CSS, JavaScript** e **Node.js**, enquanto aprofundo conhecimentos em estruturas de dados, algoritmos, APIs REST e boas práticas de desenvolvimento.
 
-Meu principal objetivo é construir aplicações completas, evoluir continuamente como desenvolvedor e conquistar minha primeira oportunidade na área de Tecnologia.
+Meu foco é desenvolver aplicações web completas, aplicando boas práticas de programação, arquitetura de software e versionamento, enquanto construo um portfólio sólido para ingressar profissionalmente na área de Tecnologia.
 
 ---
 
@@ -49,29 +49,56 @@ Meu principal objetivo é construir aplicações completas, evoluir continuament
 
 ## Projeto em destaque
 
-### ZUME *(em desenvolvimento)*
+### ZUME — Plataforma de estudos
+
 <img src="zume_banner.png" alt="screenshot">
 <img src="pomodoro_screen.png" alt="screenshot do pomodoro">
 ---
 
-Aplicação voltada para organização dos estudos e produtividade, desenvolvida como projeto de portfólio.
+Aplicação web desenvolvida para auxiliar estudantes na organização dos estudos e no gerenciamento da produtividade.
 
-**Tecnologias**
+O projeto reúne ferramentas como Pomodoro, Flashcards e autenticação de usuários, além de uma arquitetura com frontend e backend em Node.js.
 
-- HTML
-- CSS
-- JavaScript
-- Node.js
+<p>
 
-**Recursos**
+<a href="https://sam-zume.netlify.app"> 🌐 Demonstração </a>
 
-- Pomodoro
-- Flashcards
-- Organização de estudos
-- Sistema de autenticação *(em desenvolvimento)*
-- Backend em Node.js *(em desenvolvimento)*
+•
 
-> O projeto será disponibilizado publicamente após a conclusão da primeira versão estável.
+<a href="https://github.com/sam77g/ZUME">
+
+📂 Repositório
+
+</a>
+
+</p>
+
+### Tecnologias
+#### Frontend
+- React 18 + Vite
+- React Router DOM
+- Socket.io Client
+- Marked.js + MathJax (renderização de Markdown e LaTeX)
+- PDF.js (extração de texto de PDFs)
+
+#### Backend
+- Node.js + Express
+- Socket.io (salas de foco em tempo real)
+- PostgreSQL via Supabase (pg)
+- JWT (autenticação)
+- bcrypt (hash de senhas)
+- Zod (validação de entrada)
+- Helmet + rate-limit (segurança)
+> em desenvolvimento 
+- Groq API (IA — modelo llama3-8b-8192) 
+
+## ✨ Funcionalidades
+
+- **Timer Pomodoro** com modos de foco e pausa customizáveis
+- **Salas de foco colaborativas** — estude em tempo real com outros usuários via WebSocket
+- **Gerador de conteúdo com IA** — resumos e roteiros de estudo a partir de texto ou PDF
+- **Histórico de sessões** com dashboard de progresso
+- **Autenticação completa** — cadastro, login e rotas protegidas por JWT
 
 ---
 
