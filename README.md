@@ -45,7 +45,7 @@ Meu principal objetivo é construir aplicações completas, evoluir continuament
 </p>
 
 ---
-<img src="ZUME.png">
+<img src="ZUME.png" alt="zume banner">
 ## Projeto em destaque
 
 ### ZUME *(em desenvolvimento)*
