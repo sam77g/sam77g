@@ -1,36 +1,72 @@
-<img src="SAMUEL(v3).png" alt="Banner do perfil"/>
+img src="SAMUEL(v3).png" alt="Banner"/>
 
 # Samuel
 
-Estudante de **Análise e Desenvolvimento de Sistemas**, atualmente no **2º semestre**, com foco em desenvolvimento web e construção de uma base sólida em Engenharia de Software.
+Estudante de **Análise e Desenvolvimento de Sistemas**, atualmente no **2º semestre**, com foco em desenvolvimento web e construção de software.
 
-Atualmente estudo **HTML, CSS, JavaScript** e **UI/UX Design**, desenvolvendo projetos práticos para aprimorar lógica de programação, arquitetura de aplicações, boas práticas de desenvolvimento e versionamento de código com Git.
+Tenho interesse principalmente em **Front-end**, **UI/UX Design** e Engenharia de Software. Utilizo projetos pessoais como forma de aprofundar conhecimentos técnicos e desenvolver boas práticas de programação.
 
-Meu objetivo é iniciar minha carreira na área de Tecnologia da Informação, evoluindo continuamente por meio de projetos, estudos e experiências práticas.
+Atualmente estou construindo meu portfólio por meio de aplicações completas, evoluindo continuamente meus conhecimentos em JavaScript, desenvolvimento web e tecnologias modernas do ecossistema JavaScript.
 
 ---
 
 ## Sobre
 
 - Estudante de ADS
-- Foco em Desenvolvimento Web
+- Desenvolvedor Front-end em formação
 - Usuário Linux
-- Interesse em Front-end, UI/UX e Engenharia de Software
-- Aprendizado contínuo por meio de projetos pessoais
+- Apaixonado por tecnologia e aprendizado contínuo
+- Desenvolvendo projetos próprios para fortalecer fundamentos de programação
 
 ---
 
 ## Tecnologias
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42"/>
+
+</p>
+
+---
+
+## Projeto em destaque
+
+### ZUME
+
+Plataforma voltada para organização dos estudos e produtividade.
+
+**Tecnologias**
+
+- HTML
+- CSS
+- JavaScript
+- Node.js *(em desenvolvimento)*
+
+> Em breve disponível publicamente.
+
+---
+
+## GitHub Metrics
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/main/github-metrics.svg"/>
+
 </p>
 
 ---
@@ -38,38 +74,23 @@ Meu objetivo é iniciar minha carreira na área de Tecnologia da Informação, e
 ## Atualmente estudando
 
 - JavaScript (ES6+)
-- Desenvolvimento Web
-- UI/UX Design com Figma
+- Node.js
+- APIs REST
 - Estruturas de Dados
 - Algoritmos
-- Git e GitHub
-- APIs REST
-- Node.js
+- Git
+- GitHub
+- UI/UX Design
 
 ---
 
-## Projetos em destaque
+## Objetivos para 2026
 
-Em breve esta seção reunirá meus principais projetos públicos.
-
-- **ZUME** *(em desenvolvimento)*  
-  Plataforma voltada para organização dos estudos e produtividade, desenvolvida como projeto principal de aprendizado.
-
----
-
-## Estatísticas
-
-<p align="center">
-  <img height="170em"
-       src="https://github-readme-stats-sigma-five.vercel.app/api?username=sam77g&show_icons=true&theme=dark&hide_border=true"/>
-
-  <img height="170em"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sam77g&layout=compact&theme=dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sam77g&theme=github-dark&hide_border=true"/>
-</p>
+- Tornar o projeto ZUME público
+- Construir um portfólio sólido
+- Aprimorar conhecimentos em Node.js
+- Aprender React
+- Conquistar minha primeira oportunidade na área de TI
 
 ---
 
