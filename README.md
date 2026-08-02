@@ -50,7 +50,7 @@ Meu principal objetivo é construir aplicações completas, evoluir continuament
 ## Projeto em destaque
 
 ### ZUME *(em desenvolvimento)*
-
+<img src="zume_banner" alt="screenshot">
 Aplicação voltada para organização dos estudos e produtividade, desenvolvida como projeto de portfólio.
 
 **Tecnologias**
