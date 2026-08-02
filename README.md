@@ -1,53 +1,83 @@
-<img src="SAMUEL(v3).png" border-radius="15px">
-<!-- banner -->
+<img src="SAMUEL(v3).png" alt="Banner do perfil"/>
 
-# Olá! 👋 Eu sou o Samuel
+# Samuel
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**.
+Estudante de **Análise e Desenvolvimento de Sistemas**, atualmente no **2º semestre**, com foco em desenvolvimento web e construção de uma base sólida em Engenharia de Software.
 
-Atualmente estou focado em construir uma base sólida em desenvolvimento web, estudando principalmente **HTML, CSS, JavaScript**, além de aprender os fundamentos de **UI/UX Design** com Figma.
+Atualmente estudo **HTML, CSS, JavaScript** e **UI/UX Design**, desenvolvendo projetos práticos para aprimorar lógica de programação, arquitetura de aplicações, boas práticas de desenvolvimento e versionamento de código com Git.
 
-Meu objetivo é evoluir continuamente como desenvolvedor, criando projetos práticos e aprendendo boas práticas de programação.
-
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY25ybjEyYzI5bzF6cmI1ZnBzeW55d2gxOWR5Yzd3dXhzZjJ2NG5rbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/udK21RQeWtaGQ/giphy.gif" width="300">
+Meu objetivo é iniciar minha carreira na área de Tecnologia da Informação, evoluindo continuamente por meio de projetos, estudos e experiências práticas.
 
 ---
 
-## 🚀 Tecnologias
+## Sobre
+
+- Estudante de ADS
+- Foco em Desenvolvimento Web
+- Usuário Linux
+- Interesse em Front-end, UI/UX e Engenharia de Software
+- Aprendizado contínuo por meio de projetos pessoais
+
+---
+
+## Tecnologias
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42"/>
 </p>
 
 ---
 
-## 📚 Atualmente estudando
+## Atualmente estudando
 
+- JavaScript (ES6+)
 - Desenvolvimento Web
-- JavaScript
-- UI & UX Design
-- Lógica de Programação
+- UI/UX Design com Figma
 - Estruturas de Dados
 - Algoritmos
+- Git e GitHub
+- APIs REST
+- Node.js
 
 ---
 
-## 📊 Estatísticas
+## Projetos em destaque
+
+Em breve esta seção reunirá meus principais projetos públicos.
+
+- **ZUME** *(em desenvolvimento)*  
+  Plataforma voltada para organização dos estudos e produtividade, desenvolvida como projeto principal de aprendizado.
+
+---
+
+## Estatísticas
 
 <p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sam77g&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam77g&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
----
-
-## 💻 LeetCode
-
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sam77g?theme=dark&font=Segoe%20UI"/>
+  <img src="https://streak-stats.demolab.com?user=sam77g&theme=github-dark&hide_border=true"/>
 </p>
 
+---
 
+## Contato
 
+<p align="left">
+<a href="www.linkedin.com/in/samuel-santana-assis">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:samuelspassis@gmail.com">
+<img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
