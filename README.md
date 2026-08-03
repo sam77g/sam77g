@@ -83,15 +83,7 @@ O projeto reúne ferramentas como Pomodoro, Flashcards e autenticação de usuá
 
 <p>
 
-<a href="https://sam-zume.netlify.app"> 🌐 Demonstração </a>
-
-•
-
-<a href="https://github.com/sam77g/ZUME">
-
-📂 Repositório
-
-</a>
+<a href="https://sam-zume.netlify.app"> 🌐 Demonstração </a> • <a href="https://github.com/sam77g/ZUME"> 📂 Repositório </a>
 
 </p>
 
