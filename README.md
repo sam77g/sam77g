@@ -63,7 +63,11 @@ Meu foco é desenvolver aplicações web completas, aplicando boas práticas de 
 
 <p align="center">
   <img src="pomodoro_screen.png" width="800">
+
+  <img src="estudoIA.png" widht="800">
 </p>
+
+
 
 ---
 <p align="center">
