@@ -47,13 +47,15 @@ Meu foco é desenvolver aplicações web completas, aplicando boas práticas de 
 
 ---
 
-<p align="center">
-<img src="ZUME.png" alt="zume banner">
-</p> 
+
 
 ## Projeto em destaque
 
 ### ZUME — Plataforma de estudos
+
+<p align="center">
+<img src="ZUME.png" alt="zume banner">
+</p> 
 
 <p align="center">
   <img src="zume_banner.png" width="800">
@@ -64,12 +66,7 @@ Meu foco é desenvolver aplicações web completas, aplicando boas práticas de 
 </p>
 
 ---
-
-ZUME é uma plataforma web voltada à organização dos estudos e ao aumento da produtividade, reunindo ferramentas como Pomodoro, Flashcards, autenticação de usuários e recursos de colaboração em tempo real.
-
-O projeto reúne ferramentas como Pomodoro, Flashcards e autenticação de usuários, além de uma arquitetura com frontend e backend em Node.js.
-
-<p>
+<p align="center">
 
 <img src="https://img.shields.io/badge/Status-Ativo-success">
 
@@ -80,6 +77,10 @@ O projeto reúne ferramentas como Pomodoro, Flashcards e autenticação de usuá
 <img src="https://img.shields.io/badge/PostgreSQL-Supabase-blue">
 
 </p>
+
+ZUME é uma plataforma web voltada à organização dos estudos e ao aumento da produtividade, reunindo ferramentas como Pomodoro, Flashcards, autenticação de usuários e recursos de colaboração em tempo real.
+
+O projeto reúne ferramentas como Pomodoro, Flashcards e autenticação de usuários, além de uma arquitetura com frontend e backend em Node.js.
 
 <p>
 
