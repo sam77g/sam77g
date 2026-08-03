@@ -20,6 +20,7 @@ Meu foco é desenvolver aplicações web completas, aplicando boas práticas de 
 
 ---
 
+
 ## Tecnologias
 
 <p align="left">
@@ -45,19 +46,40 @@ Meu foco é desenvolver aplicações web completas, aplicando boas práticas de 
 </p>
 
 ---
+
+<p align="center">
 <img src="ZUME.png" alt="zume banner">
+</p> 
 
 ## Projeto em destaque
 
 ### ZUME — Plataforma de estudos
 
-<img src="zume_banner.png" alt="screenshot">
-<img src="pomodoro_screen.png" alt="screenshot do pomodoro">
+<p align="center">
+  <img src="zume_banner.png" width="800">
+</p>
+
+<p align="center">
+  <img src="pomodoro_screen.png" width="800">
+</p>
+
 ---
 
-Aplicação web desenvolvida para auxiliar estudantes na organização dos estudos e no gerenciamento da produtividade.
+ZUME é uma plataforma web voltada à organização dos estudos e ao aumento da produtividade, reunindo ferramentas como Pomodoro, Flashcards, autenticação de usuários e recursos de colaboração em tempo real.
 
 O projeto reúne ferramentas como Pomodoro, Flashcards e autenticação de usuários, além de uma arquitetura com frontend e backend em Node.js.
+
+<p>
+
+<img src="https://img.shields.io/badge/Status-Ativo-success">
+
+<img src="https://img.shields.io/badge/React-18-61DAFB">
+
+<img src="https://img.shields.io/badge/Node.js-22-green">
+
+<img src="https://img.shields.io/badge/PostgreSQL-Supabase-blue">
+
+</p>
 
 <p>
 
@@ -73,7 +95,7 @@ O projeto reúne ferramentas como Pomodoro, Flashcards e autenticação de usuá
 
 </p>
 
-### Tecnologias
+## Stack do projeto
 #### Frontend
 - React 18 + Vite
 - React Router DOM
@@ -89,8 +111,9 @@ O projeto reúne ferramentas como Pomodoro, Flashcards e autenticação de usuá
 - bcrypt (hash de senhas)
 - Zod (validação de entrada)
 - Helmet + rate-limit (segurança)
-> em desenvolvimento 
-- Groq API (IA — modelo llama3-8b-8192) 
+### Em desenvolvimento
+- Integração com IA utilizando a API da Groq (Llama 3 8B)
+
 
 ## ✨ Funcionalidades
 
