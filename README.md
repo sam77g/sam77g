@@ -111,10 +111,11 @@ O projeto reúne ferramentas como Pomodoro, Flashcards e autenticação de usuá
 - Integração com IA utilizando a API da Groq (Llama 3 8B)
   
 ### Em desenvolvimento
-- flashcards
+- teste de conhecimento
 
 ## Funcionalidades
 
+- **flashcards** com 4 modos de dificuldade
 - **Timer Pomodoro** com modos de foco e pausa customizáveis
 - **Salas de foco colaborativas** — estude em tempo real com outros usuários via WebSocket
 - **Gerador de conteúdo com IA** — resumos e roteiros de estudo a partir de texto ou PDF
