@@ -122,7 +122,7 @@ O projeto reúne ferramentas como Pomodoro, Flashcards e autenticação de usuá
 - bcrypt (hash de senhas)
 - Zod (validação de entrada)
 - Helmet + rate-limit (segurança)
-- Integração com IA utilizando a API da Groq (Llama 3 8B)
+- Integração com IA utilizando a API da Groq (llama-3.3-70b)
   
 ### Em desenvolvimento
 - teste de conhecimento
