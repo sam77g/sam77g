@@ -57,31 +57,6 @@ Meu foco é desenvolver aplicações web completas, aplicando boas práticas de 
 <img src="ZUME.png" alt="zume banner">
 </p> 
 
-- **CONTA**
-<p align="center">
-  <img src="zume_banner.png" width="800">
-</p>
-
-- **POMODORO**
-<p align="center">
-  <img src="pomodoro_screen.png" width="800">
-</p>
-
-- **RESUMO E GUIA DE ESTUDOS**
-<p align="center">
-  <img src="image.png" widht="800">
-</p>
-
-- **FLASHCARDS**
-<p align="center">
-  <img src="flashcard_print.png" widht="800">
-</p>
-
-- **SALA EM FOCO**
-<p align="center">
-  <img src="sala_foco_print.png" widht="800">
-</p>
-
 ---
 
 <p align="center">
@@ -135,7 +110,35 @@ O projeto reúne ferramentas como Pomodoro, Flashcards e autenticação de usuá
 - **Autenticação completa** — cadastro, login e rotas protegidas por JWT
 
 ---
+## Preview 
 
+- **CONTA**
+<p align="center">
+  <img src="zume_banner.png" width="800">
+</p>
+
+- **POMODORO**
+<p align="center">
+  <img src="pomodoro_screen.png" width="800">
+</p>
+
+- **RESUMO E GUIA DE ESTUDOS**
+<p align="center">
+  <img src="image.png" widht="800">
+</p>
+
+- **FLASHCARDS**
+<p align="center">
+  <img src="flashcard_print.png" widht="800">
+</p>
+
+- **SALA EM FOCO**
+<p align="center">
+  <img src="sala_foco_print.png" widht="800">
+</p>
+
+
+---
 ## Atualmente estudando
 
 - JavaScript (ES6+)
