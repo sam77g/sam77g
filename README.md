@@ -123,12 +123,10 @@ O projeto reúne ferramentas como Pomodoro, Flashcards e autenticação de usuá
 - Zod (validação de entrada)
 - Helmet + rate-limit (segurança)
 - Integração com IA utilizando a API da Groq (llama-3.3-70b)
-  
-### Em desenvolvimento
-- teste de conhecimento
 
 ## Funcionalidades
-
+- **Analytics personalizados** - gráficos com análises personalizadas e nivelamento 
+- **teste de conhecimento** - testes com temas personalizados e gabarito
 - **flashcards** com 4 modos de dificuldade
 - **Timer Pomodoro** com modos de foco e pausa customizáveis
 - **Salas de foco colaborativas** — estude em tempo real com outros usuários via WebSocket
