@@ -49,7 +49,7 @@ Meu foco é desenvolver aplicações web completas, aplicando boas práticas de 
 
 
 
-## Projeto em destaque
+## Projetos
 
 ### ZUME — Plataforma de estudos
 
@@ -139,6 +139,7 @@ O projeto reúne ferramentas como Pomodoro, Flashcards e autenticação de usuá
 
 
 ---
+
 ## Atualmente estudando
 
 - JavaScript (ES6+)
@@ -157,7 +158,6 @@ O projeto reúne ferramentas como Pomodoro, Flashcards e autenticação de usuá
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sam77g&theme=github-dark&hide_border=true"/>
 </p>
-
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sam77g&layout=compact&theme=dark&hide_border=true"/>
