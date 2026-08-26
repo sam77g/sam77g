@@ -70,7 +70,7 @@ Meu foco é desenvolver aplicações web completas, aplicando boas práticas de 
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:samuelspassis@gmail.com">
+<a href="mailto:samuel77gcontato@gmail.com">
 <img src="https://img.shields.io/badge/E-mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
