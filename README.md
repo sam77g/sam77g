@@ -61,13 +61,6 @@ Meu foco é desenvolver aplicações web completas, aplicando boas práticas de 
 
 ---
 
-## GitHub
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sam77g&theme=github-dark&hide_border=true"/>
-</p>
-
----
 
 ## Contato
 
