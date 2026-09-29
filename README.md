@@ -50,14 +50,5 @@ Meu foco é desenvolver aplicações web completas, aplicando boas práticas de 
 
 ## Contato
 
-<p align="left">
-
-<a href="https://linkedin.com/in/samuel-santana-assis">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:samuel77gcontato@gmail.com">
-<img src="https://img.shields.io/badge/E-mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+[![Linkedin](https://img.shields.io/badge/-samuel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-santana-assi/)](https://linkedin.com/in/samuel-santana-assis)
+[![Gmail Badge](https://img.shields.io/badge/-samuel77gcontato@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samuel77gcontato@gmail.com)](mailto:samuel77gcontato@gmail.com)
