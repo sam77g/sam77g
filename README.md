@@ -52,14 +52,6 @@ Meu foco é desenvolver aplicações web completas, aplicando boas práticas de 
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=sam77g&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-  <picture>
-    <source
-      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=sam77g&langs_count=4&theme=dark_github"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sam77g&langs_count=4&theme=light_github" alt="Top Langs" />
-  </picture>
-
 </div>
 
 ---
