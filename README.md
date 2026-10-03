@@ -33,11 +33,10 @@ Meu foco é desenvolver aplicações web completas, aplicando boas práticas de 
 ---
 
 ## Stats
-<div align="center">
+<div align="center"style='text-align: justify;' >
   
-![sam77g's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sam77g&theme=vue-dark&hide_border=true) 
-![sam77g's Stats](https://github-readme-stats.vercel.app/api?username=sam77g&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![sam77g's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sam77g&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![sam77g's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sam77g&theme=dark&hide_border=true) ![sam77g's Stats](https://github-readme-stats.vercel.app/api?username=sam77g&theme=dark&show_icons=true&hide_border=true&count_private=true) <br>
+
 
 </div>
 
