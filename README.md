@@ -1,6 +1,4 @@
 
-<img src="SAMUEL(v3).png" alt="Banner do perfil"/>
-
 # Samuel
 ![](https://komarev.com/ghpvc/?username=sam77g&color=006bed)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
