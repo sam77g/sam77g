@@ -1,5 +1,7 @@
+<div align="center">
 
-# Samuel
+# **SAMUEL**
+
 ![](https://komarev.com/ghpvc/?username=sam77g&color=006bed)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
@@ -10,7 +12,9 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 
+</div>
 
 Estudante de **Análise e Desenvolvimento de Sistemas (2º semestre)** com foco em desenvolvimento web e construção de software.
 
