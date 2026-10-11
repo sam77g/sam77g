@@ -47,7 +47,8 @@
 ## Stats
 <div align="center"style='text-align: justify;' >
   
-![sam77g's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sam77g&theme=dark&hide_border=true) ![sam77g's Stats](https://github-readme-stats.vercel.app/api?username=sam77g&theme=dark&show_icons=true&hide_border=true&count_private=true) <br>
+![sam77g's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sam77g&theme=dark&hide_border=true)  <br>
+![sam77g's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sam77g&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
 
 
 </div>
