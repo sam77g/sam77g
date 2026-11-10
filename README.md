@@ -73,7 +73,7 @@
   
 ## Contato
   
-[![Linkedin](https://img.shields.io/badge/-samuel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-santana-assi/)](https://linkedin.com/in/samuel-santana-assis)
+[![Linkedin](https://img.shields.io/badge/-samuel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-santana-assis/)](https://linkedin.com/in/samuel-santana-assis)
 [![Gmail Badge](https://img.shields.io/badge/-samuel77gcontato@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samuel77gcontato@gmail.com)](mailto:samuel77gcontato@gmail.com)
 
 </div>
