@@ -60,8 +60,7 @@
 <div align="center"style='text-align: justify;' >
   
 ![sam77g's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sam77g&theme=dark&hide_border=true)  <br>
-![sam77g's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sam77g&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
-
+<img width="45%" src="https://github-readme-stats-vercel.zcy.dev/api/top-langs/?username=sam77g&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&theme=transparent&hide_border=true" alt="Linguagens mais utilizadas no GitHub">
 
 </div>
 
