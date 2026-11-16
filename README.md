@@ -1,6 +1,6 @@
 <div align="center">
 
-# Samuel Santana Assis
+# Samuel Assis
 
 ### Desenvolvedor Frontend · Estudante de Análise e Desenvolvimento de Sistemas
 
