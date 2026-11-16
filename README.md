@@ -46,38 +46,17 @@ Sou desenvolvedor frontend e estudante do 2º semestre de Análise e Desenvolvim
 ## Stack e ferramentas
 
 ### Frontend
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) [![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)](#) [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 
 ### Backend
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
-[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
-[![Express.js](https://img.shields.io/badge/Express.js-404d59?logo=express&logoColor=61DAFB)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 
 ### Banco de dados
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
-[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#) [![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)](#)
 
 ### Design e UI/UX
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 
-### Versionamento
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](#)
-
-### Sistemas operacionais
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
-
-### Editores
-[![VS Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)
-[![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff)](#)
-
-### Inteligência artificial
-[![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
-[![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
 
 ---
 
