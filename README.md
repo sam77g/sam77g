@@ -1,76 +1,113 @@
 <div align="center">
 
-# **SAMUEL**
-![](https://komarev.com/ghpvc/?username=sam77g&color=006bed) 
+# Samuel Santana Assis
+
+### Desenvolvedor Frontend · Estudante de Análise e Desenvolvimento de Sistemas
+
+Construo interfaces e sistemas funcionais, do layout ao backend, aprendendo na prática com projetos reais.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-santana-assis)
+[![Gmail](https://img.shields.io/badge/Email-006bed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuel77gcontato@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sam77g)
+
+![Visualizações](https://komarev.com/ghpvc/?username=sam77g&color=006bed)
 
 </div>
 
-- Frontend developer e estudante de Análise e Desenvolvimento de Sistemas - 2º semestre . 
-- Entusiasta de open source e linux. 
-- Estudando na prática com projetos desafiadores 
-  
 ---
 
-## Stack
+## Sobre mim
 
-- **Frontend**
-  
+Sou desenvolvedor frontend e estudante do 2º semestre de Análise e Desenvolvimento de Sistemas. Gosto de transformar ideias em produtos funcionais: interfaces responsivas, aplicações web, PWAs e sistemas com backend próprio.
+
+- Foco em **frontend**, com experiência em **backend** (Node.js, Python) e banco de dados
+- Entusiasta de **open source** e **Linux**
+- Aprendizado orientado a projetos desafiadores e entregas reais
+- Uso de **IA** como ferramenta de produtividade no desenvolvimento
+
+---
+
+## Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| **AMPARO** | Plataforma de monitoramento de saúde voltada a idosos | React, Vite |
+| **ZUME** | Aplicativo de produtividade para estudos baseado na técnica Pomodoro | JavaScript, Node.js |
+| **PWA para lava-jato** | Sistema de gestão para um lava-jato, instalável como aplicativo | JavaScript, PWA |
+| **Dashboard de jogos** | Registro de jogos, horas jogadas e plataforma | HTML, CSS, JavaScript |
+| **PharmaERP** | ERP de farmácia com controle de medicamentos, relatórios e histórico de entrada/saída | Python |
+| **Landing page de turismo** | Página institucional responsiva para empresa de turismo | HTML5, CSS3, Bootstrap |
+| **Portfólio pessoal** | Site pessoal com layout responsivo | HTML, CSS, Flexbox |
+
+> Veja todos os repositórios em [github.com/sam77g](https://github.com/sam77g?tab=repositories).
+
+---
+
+## Stack e ferramentas
+
+### Frontend
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 
-- **Code version control**
-  
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
-- **Design & UI/UX**
-  
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Canva](https://custom-icon-badges.demolab.com/badge/Canva-%2300C4CC.svg?&logo=canva&logoColor=white)
-
-- **Backend**
-  
+### Backend
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
-[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
 [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![Express.js](https://img.shields.io/badge/Express.js-404d59?logo=express&logoColor=61DAFB)](#)
 
-- **Operational System's**
-  
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
-
-- **IDE/Text editor**
-  
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)
-[![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff)](#)
-
-- **Database**
-  
+### Banco de dados
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)](#)
 
-- **Artificial intelligence**
-  
+### Design e UI/UX
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
+
+### Versionamento
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](#)
+
+### Sistemas operacionais
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+
+### Editores
+[![VS Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)
+[![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff)](#)
+
+### Inteligência artificial
 [![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
 [![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
 
-## Stats
-<div align="center"style='text-align: justify;' >
-  
-![sam77g's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sam77g&theme=dark&hide_border=true)  <br>
+---
+
+## Estatísticas do GitHub
+
+<div align="center">
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sam77g&theme=dark&hide_border=true)
+
 <img width="45%" src="https://github-readme-stats-vercel.zcy.dev/api/top-langs/?username=sam77g&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&theme=transparent&hide_border=true" alt="Linguagens mais utilizadas no GitHub">
 
 </div>
 
-<br>
+---
+
+## Em andamento
+
+- Aprofundando **JavaScript** e frameworks frontend
+- Evoluindo em **backend com Node.js** e integração com bancos de dados
+- Contribuindo e explorando projetos **open source**
+
+---
 
 <div align="center">
-  
-## Contato
-  
-[![Linkedin](https://img.shields.io/badge/-samuel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-santana-assis/)](https://linkedin.com/in/samuel-santana-assis)
-[![Gmail Badge](https://img.shields.io/badge/-samuel77gcontato@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samuel77gcontato@gmail.com)](mailto:samuel77gcontato@gmail.com)
+
+## Vamos conversar?
+
+Aberto a oportunidades de estágio, projetos e colaborações.
+
+[![LinkedIn](https://img.shields.io/badge/-samuel--santana--assis-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-santana-assis)
+[![Gmail](https://img.shields.io/badge/-samuel77gcontato@gmail.com-006bed?style=flat-square&logo=gmail&logoColor=white)](mailto:samuel77gcontato@gmail.com)
 
 </div>
