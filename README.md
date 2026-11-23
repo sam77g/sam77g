@@ -28,16 +28,14 @@ Sou desenvolvedor frontend e estudante do 2º semestre de Análise e Desenvolvim
 ---
 
 ## Projetos em destaque
-
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| **AMPARO** | Plataforma de monitoramento de saúde voltada a idosos | React, Vite |
+| **[!AMPARO](https://github.com/sam77g/AMPARO)** | Plataforma de monitoramento de saúde voltada a idosos | React, Vite |
 | **ZUME** | Aplicativo de produtividade para estudos baseado na técnica Pomodoro | JavaScript, Node.js |
-| **PWA para lava-jato** | Sistema de gestão para um lava-jato, instalável como aplicativo | JavaScript, PWA |
-| **Dashboard de jogos** | Registro de jogos, horas jogadas e plataforma | HTML, CSS, JavaScript |
-| **PharmaERP** | ERP de farmácia com controle de medicamentos, relatórios e histórico de entrada/saída | Python |
-| **Landing page de turismo** | Página institucional responsiva para empresa de turismo | HTML5, CSS3, Bootstrap |
-| **Portfólio pessoal** | Site pessoal com layout responsivo | HTML, CSS, Flexbox |
+| **[!PWA para lava-jato](https://github.com/sam77g/LavaJatoPWA)** | Sistema de gestão para um lava-jato, instalável como aplicativo | JavaScript, PWA |
+| **[![Dashboard Gamer](https://github.com/sam77g/DASHBOARD_GAMER)** | Registro de jogos, horas jogadas e plataforma | HTML, CSS, JavaScript |
+| **[![PharmaERP](https://github.com/sam77g/PharmaERP)** | ERP de farmácia com controle de medicamentos, relatórios e histórico de entrada/saída | Python |
+| **[!Landing page de turismo](https://github.com/sam77g/EmeraldTurism)** | Página institucional responsiva para empresa de turismo | HTML5, CSS3, Bootstrap |
 
 > Veja todos os repositórios em [github.com/sam77g](https://github.com/sam77g?tab=repositories).
 
