@@ -64,7 +64,7 @@ Sou desenvolvedor frontend e estudante do 2º semestre de Análise e Desenvolvim
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sam77g&theme=dark&hide_border=true)
 
-<img width="45%" src="https://github-readme-stats-vercel.zcy.dev/api/top-langs/?username=sam77g&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&theme=transparent&hide_border=true" alt="Linguagens mais utilizadas no GitHub">
+<img width="45%" src="https://github-readme-stats-vercel.zcy.dev/api/top-langs/?username=sam77g&layout=compact&langs_count=4&size_weight=0.5&count_weight=0.5&theme=transparent&hide_border=true" alt="Linguagens mais utilizadas no GitHub">
 
 </div>
 
