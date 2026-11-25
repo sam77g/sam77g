@@ -36,6 +36,7 @@ Sou desenvolvedor frontend e estudante do 2º semestre de Análise e Desenvolvim
 | **[Dashboard Gamer](https://github.com/sam77g/DASHBOARD_GAMER)** | Registro de jogos, horas jogadas e plataforma | HTML, CSS, JavaScript |
 | **[PharmaERP](https://github.com/sam77g/PharmaERP)** | ERP de farmácia com controle de medicamentos, relatórios e histórico de entrada/saída | Python |
 | **[Landing page de turismo](https://github.com/sam77g/EmeraldTurism)** | Página institucional responsiva para empresa de turismo | HTML5, CSS3, Bootstrap |
+| **[Portifólio](https://github.com/sam77g/MY-PORTIFOLIO)** | Portifólio pessoal | HTML5, CSS3, JavaScript |
 
 > Veja todos os repositórios em [github.com/sam77g](https://github.com/sam77g?tab=repositories).
 
