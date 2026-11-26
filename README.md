@@ -85,7 +85,7 @@ Sou desenvolvedor frontend e estudante do 2º semestre de Análise e Desenvolvim
 
 Aberto a oportunidades de estágio, projetos e colaborações.
 
-[![LinkedIn](https://img.shields.io/badge/-samuel--santana--assis-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-santana-assis)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-santana-assis)
 [![Gmail](https://img.shields.io/badge/Email-006bed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuel77gcontato@gmail.com)
 
 </div>
